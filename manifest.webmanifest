@@ -1,0 +1,1 @@
+{"name":"Mein Finanz-Dashboard","short_name":"Finanzen","description":"Privates Haushaltsbudget und Liquiditätsplanung","lang":"de-DE","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#f3f6f4","theme_color":"#173e3b","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
